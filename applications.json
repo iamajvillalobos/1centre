@@ -1,0 +1,949 @@
+{
+  "applications": [
+    {
+      "id": "d02e188a-ebd5-4b67-88f1-9941e1f9b79e",
+      "timestamp": "2022-08-01 0:12:14 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "25f348fc-1e37-4b08-b6bc-b201ffb84279",
+      "timestamp": "2022-08-01 1:25:33 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "e8861480-25be-40c2-87d7-1c8af55e1d33",
+      "timestamp": "2022-08-01 1:51:12 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "19dd1a7a-4727-4e85-a3ad-0ec55e9bed8a",
+      "timestamp": "2022-08-01 1:49:01 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "acc0d298-9160-4bcf-866b-1ee46fc6a1cf",
+      "timestamp": "2022-08-01 3:32:28 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "d5fc5788-f50a-47bf-9e34-e7499736a737",
+      "timestamp": "2022-08-01 4:08:58 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "3b5593a3-9453-449f-b870-ee4680eeb528",
+      "timestamp": "2022-08-01 4:59:10 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "dde0c2c9-8b77-4ad1-bd6f-d9323c52d758",
+      "timestamp": "2022-08-01 6:43:34 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "2bdf29cb-8593-48ad-931d-3e9cd5274f90",
+      "timestamp": "2022-08-01 6:11:36 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "8eb4178d-b69b-438e-afdd-e2c00f68f742",
+      "timestamp": "2022-08-01 6:16:51 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "deaab017-aa4a-464f-8c91-d63668ebbce8",
+      "timestamp": "2022-08-01 8:15:15 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "90a93f42-f426-4fc3-9c9b-5e898feeb26c",
+      "timestamp": "2022-08-01 9:25:41 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "44a62ead-e9e7-449c-8d55-ba9ad56e04cf",
+      "timestamp": "2022-08-01 9:26:22 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "c70adff0-dac5-4d08-90f6-2fcabd9b17ec",
+      "timestamp": "2022-08-01 9:53:55 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "a8620cc1-d0cb-4ec2-8385-171757c28cbc",
+      "timestamp": "2022-08-01 10:46:14 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "1ed6ab4a-1334-4817-927d-15d6d8e6102c",
+      "timestamp": "2022-08-01 10:27:17 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "d4ce8ac6-8dca-4088-a7a6-10feddfce4b9",
+      "timestamp": "2022-08-01 10:34:27 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "d0d9a85a-8ad6-433c-bec4-7f243d16ddf6",
+      "timestamp": "2022-08-01 10:24:26 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "9f6ea54f-52cd-4eee-8a1f-b3362521978f",
+      "timestamp": "2022-08-01 10:36:05 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "0ff827c4-fb01-4d69-b990-d54255d8c004",
+      "timestamp": "2022-08-01 11:44:06 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "60742e1f-9950-4f7d-8ca3-6b9dc1d372bc",
+      "timestamp": "2022-08-01 11:38:01 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "6d0ab6e1-718f-4128-8a51-68d2cb693ddd",
+      "timestamp": "2022-08-01 11:05:27 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "a92e9406-45ed-4a02-a402-77ae9880c83d",
+      "timestamp": "2022-08-01 11:02:09 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "892bd5cb-f5b9-408d-8e3e-d54b81ab7c9c",
+      "timestamp": "2022-08-01 11:04:55 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "77d78a31-00ee-4ab2-afab-90cb6834a66f",
+      "timestamp": "2022-08-01 12:15:15 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "b2140ab8-6fde-4c78-9973-2fece7a832e2",
+      "timestamp": "2022-08-01 12:42:15 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "a834c49c-4863-4355-968c-3a9915be4362",
+      "timestamp": "2022-08-01 12:53:34 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "99c4dbe2-3f51-4e66-8064-da531ce149d5",
+      "timestamp": "2022-08-01 12:44:21 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "245b1720-ac52-4c8b-8db1-78f8e4c5b1fd",
+      "timestamp": "2022-08-01 12:00:43 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "f9bf94f4-5bf6-4a28-a5b4-269b01da8ed8",
+      "timestamp": "2022-08-01 13:04:45 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "d7fc2afc-7a0f-4a7e-9c2e-05da48af72b9",
+      "timestamp": "2022-08-01 13:35:01 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "ddb50d5e-12ed-4e22-b75f-e9aed9e800d7",
+      "timestamp": "2022-08-01 13:53:44 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "b345b3f0-21a2-4adf-8ad6-895d51b61144",
+      "timestamp": "2022-08-01 13:16:46 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "71e5df7c-c14d-4450-9892-c3588d677a1e",
+      "timestamp": "2022-08-01 13:55:55 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "76153937-29a8-4810-a870-6b19b7f6d949",
+      "timestamp": "2022-08-01 16:26:03 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "995a8f66-3c6b-4566-9c5c-72377d074cc0",
+      "timestamp": "2022-08-01 16:11:38 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "d3aaf17a-7f48-4caa-b0d6-c115cd565b34",
+      "timestamp": "2022-08-01 17:57:09 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "923127d5-a1ff-4832-be18-50df56732301",
+      "timestamp": "2022-08-01 17:32:19 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "166155b8-f80f-4282-ac6e-e1e37a60665b",
+      "timestamp": "2022-08-01 17:26:40 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "ec65f900-121c-4ab6-8d74-9a1fab94725c",
+      "timestamp": "2022-08-01 19:12:30 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "6116d468-708b-42fc-bb65-809ee670b63d",
+      "timestamp": "2022-08-01 19:01:21 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "55d50eda-3874-4a40-bf49-bb385d8cd3fb",
+      "timestamp": "2022-08-01 19:25:58 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "ec9f4a4f-e094-4ce4-becd-d9a068f876da",
+      "timestamp": "2022-08-01 19:02:49 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "95e3a59b-f583-4770-b04c-1afe65bc9ebe",
+      "timestamp": "2022-08-01 19:23:52 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "c6fa147a-eb89-49f7-98aa-fbecedbc12b8",
+      "timestamp": "2022-08-01 20:38:27 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "3f1adefa-3e0e-40f4-a505-3f2c263021db",
+      "timestamp": "2022-08-01 20:57:18 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "e0bb86ef-8436-46fe-80c1-5e15e6dca1de",
+      "timestamp": "2022-08-01 20:32:52 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "bb388d16-3dcd-4ef6-8c9a-49e118f1487f",
+      "timestamp": "2022-08-01 20:31:47 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "1bb175ae-0643-4b5d-a633-8f5b1aa4c57e",
+      "timestamp": "2022-08-01 20:52:52 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "a6f7cbc7-0760-4e11-8199-2667d01f5d9d",
+      "timestamp": "2022-08-01 21:33:08 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "470f085f-aa86-4459-947c-eaaa7b4fbb26",
+      "timestamp": "2022-08-01 21:48:17 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "7e6d960c-c9f3-4967-b1a6-b52063e685dc",
+      "timestamp": "2022-08-01 21:00:10 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "c53a86c7-ce29-400b-a1c1-21b99ac67dbb",
+      "timestamp": "2022-08-01 22:24:54 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "923610af-0471-4ed7-8c92-a82f286faf15",
+      "timestamp": "2022-08-01 23:41:22 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "a34b94fb-f063-4cb9-b174-fc14a0faefd1",
+      "timestamp": "2022-08-01 23:44:58 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "aa909ecc-b930-43f2-aac3-da0efd9d4792",
+      "timestamp": "2022-08-02 1:24:49 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "c7239b0e-8db4-423b-8a18-abb0edd09ec4",
+      "timestamp": "2022-08-02 2:48:55 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "b6b3cb77-6127-484f-96cf-e3e7bf24f9b6",
+      "timestamp": "2022-08-02 2:15:01 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "49c3d18c-d3c5-46b2-a3bc-9aa2a0919e0c",
+      "timestamp": "2022-08-02 2:06:11 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "05844dc9-7688-44b9-9e5d-d844c27d94cd",
+      "timestamp": "2022-08-02 2:50:27 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "2fff5e2a-b78c-4694-835b-573b2b004cf2",
+      "timestamp": "2022-08-02 2:34:39 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "1fca09e5-9ac2-4806-81b8-6f56b77f65b8",
+      "timestamp": "2022-08-02 3:28:12 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "4fbd346b-83c0-4269-8cbe-3669325dbbd5",
+      "timestamp": "2022-08-02 3:49:52 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "a1e12c96-1718-40bd-ba9b-0f8e5930a236",
+      "timestamp": "2022-08-02 3:03:38 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "6a25db66-a6f5-4c41-a11d-550c882aa743",
+      "timestamp": "2022-08-02 4:24:42 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "cf092916-0f51-4fc0-bca9-8fddeacd3e5b",
+      "timestamp": "2022-08-02 5:34:05 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "f7659395-98e5-4fd1-b1aa-382b0621e044",
+      "timestamp": "2022-08-02 5:58:01 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "80f23a6f-d1d5-4cc5-af3c-f97cd364398b",
+      "timestamp": "2022-08-02 7:36:33 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "be9cbda8-066d-4421-b444-6f9716f5f012",
+      "timestamp": "2022-08-02 7:40:12 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "dbb7783e-7974-4019-99ca-ea8ad1e1be15",
+      "timestamp": "2022-08-02 7:09:44 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "ef8261f7-4a22-4053-955f-acc8ead54abc",
+      "timestamp": "2022-08-02 8:12:20 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "194a2933-adb6-429c-b1f4-8064d5f58cef",
+      "timestamp": "2022-08-02 8:18:05 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "c6ac40f1-7df2-460e-a2ce-bb5135f1c3eb",
+      "timestamp": "2022-08-02 8:28:25 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "2d15c44b-71c7-4cb2-968f-720b5f29a514",
+      "timestamp": "2022-08-02 9:27:02 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "36f02c33-414d-4339-a123-51cf008d7dd3",
+      "timestamp": "2022-08-02 9:50:15 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "0dd6f959-0de0-45de-bf8c-160d5a0624b2",
+      "timestamp": "2022-08-02 9:58:58 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "7c849c3a-ef64-4467-86c8-cd62d6879ef1",
+      "timestamp": "2022-08-02 9:03:10 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "cd1b434b-cc80-4a06-aee9-63aedeac0861",
+      "timestamp": "2022-08-02 9:37:55 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "2c75582a-95a4-4c2b-af53-6d39a1bd7fdd",
+      "timestamp": "2022-08-02 10:40:42 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "884c6c27-62ec-4d6e-8a7e-54c5e445583e",
+      "timestamp": "2022-08-02 10:28:18 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "3090a758-8255-4439-a1dc-6fec81411493",
+      "timestamp": "2022-08-02 10:31:40 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "3b196da0-04c4-424e-ac78-ee9ab9a40d09",
+      "timestamp": "2022-08-02 11:16:58 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "fe31848a-3754-4f6f-98ee-e7fa5b220b57",
+      "timestamp": "2022-08-02 11:36:47 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "84081c02-e73f-464c-82bd-8e00a19ae209",
+      "timestamp": "2022-08-02 11:01:00 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "8f0ceea3-24cb-4f2b-86b1-a4b38b8068a1",
+      "timestamp": "2022-08-02 11:43:59 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "292ed41b-9695-4ddb-b03b-bac88048d8e6",
+      "timestamp": "2022-08-02 12:15:40 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "c7a955fc-4124-4ddd-89fa-5665417721e5",
+      "timestamp": "2022-08-02 12:09:23 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "8dfe0fd1-b552-4f01-b6f7-b1036bf55559",
+      "timestamp": "2022-08-02 12:40:29 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "f1a7fec0-f3c8-44bf-b676-2585e137bdef",
+      "timestamp": "2022-08-02 12:41:59 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "11674c5d-a5fa-4ceb-81a6-533ab91d8697",
+      "timestamp": "2022-08-02 13:40:59 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "ce972ed4-2b19-4c96-bada-de5c61e4e325",
+      "timestamp": "2022-08-02 13:42:11 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "941059f4-df54-40a7-a861-a31fb5165426",
+      "timestamp": "2022-08-02 13:46:49 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "6ade5eb4-1a6d-484b-a27e-5c62cf2c8dd0",
+      "timestamp": "2022-08-02 13:32:19 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "c80f5c82-e889-45fe-aa3f-fee6cd5c7ab7",
+      "timestamp": "2022-08-02 14:53:43 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "4c53d4f8-02d6-4bab-9569-6c94c6e60cca",
+      "timestamp": "2022-08-02 14:22:13 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "b44ed844-ccfa-45b7-928f-331540c9c493",
+      "timestamp": "2022-08-02 14:17:03 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "f895bceb-de8a-4fa6-9ca5-b67aeb0d8e67",
+      "timestamp": "2022-08-02 15:27:52 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "5c9aeb4f-c66d-467f-ab4b-7eda83ca4d61",
+      "timestamp": "2022-08-02 15:34:01 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "de33aa3d-ee28-4bfd-b4cd-3c3a88c21ba8",
+      "timestamp": "2022-08-02 15:52:34 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "b9e662e7-c1c9-437b-b3c4-50fb7063b5da",
+      "timestamp": "2022-08-02 15:30:30 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "748152ec-6282-4f34-bf9d-c0ca1285a1a7",
+      "timestamp": "2022-08-02 16:22:32 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "7092e8b1-2a57-49c3-b323-a9e7905acb5c",
+      "timestamp": "2022-08-02 17:16:33 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "20c9fc60-6f55-41d4-91f1-f5a2b9f3761c",
+      "timestamp": "2022-08-02 17:20:38 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "0688d43f-a8b5-45f0-8eb5-3102d7fd10fc",
+      "timestamp": "2022-08-02 18:10:55 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "65430b4c-f444-46cd-9910-699388517d5d",
+      "timestamp": "2022-08-02 18:01:03 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "2e346220-c1aa-4558-ac22-08c2910705c9",
+      "timestamp": "2022-08-02 18:40:17 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "3785d838-b5a9-41a2-9520-c7a25ef4fc90",
+      "timestamp": "2022-08-02 18:04:26 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "c8fbda35-1b7a-40f7-bb82-73ef5d6b60f7",
+      "timestamp": "2022-08-02 18:39:07 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "79fda3da-f64d-490d-8102-4bbb1cabe049",
+      "timestamp": "2022-08-02 19:50:34 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "23ac84a3-441e-445d-9123-74861952b614",
+      "timestamp": "2022-08-02 20:14:16 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "75d888cc-b644-49be-95d8-9e02ddaf1b7b",
+      "timestamp": "2022-08-02 20:57:58 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "eb6c7d3a-ba56-4c6d-a99d-0fa27779d8b0",
+      "timestamp": "2022-08-02 20:15:59 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "147dcfae-2a0d-4f29-8ad0-dbd08f164338",
+      "timestamp": "2022-08-02 20:24:04 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "5a80ce58-0a13-4a31-b60f-237c3f86c11e",
+      "timestamp": "2022-08-02 21:55:41 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "45552a01-7005-45af-b2f7-d184940be70e",
+      "timestamp": "2022-08-02 21:01:14 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "43244f4e-b2bf-4538-9157-f6da5f989919",
+      "timestamp": "2022-08-02 21:44:48 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "6fdb637c-3dc8-4024-a728-a04d4f60f280",
+      "timestamp": "2022-08-02 21:23:39 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "0fd5c9d5-b1da-47c0-a381-3a437987884a",
+      "timestamp": "2022-08-02 21:03:15 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "caf3eeb6-abf2-4234-b38d-14e932625810",
+      "timestamp": "2022-08-02 23:24:48 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "8e6672ee-e5d9-4ea1-a82a-8ea9d3226eb5",
+      "timestamp": "2022-08-02 23:02:53 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "67cbe395-c664-418e-bf2f-a1ae585b71a5",
+      "timestamp": "2022-08-02 23:48:34 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "071c74f0-33f9-42f4-8e66-4df3a435110a",
+      "timestamp": "2022-08-03 0:37:35 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "a0224206-757b-4430-a020-b423f448ece4",
+      "timestamp": "2022-08-03 0:15:24 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "08d11ede-121d-4909-8b18-9a3b71e99bad",
+      "timestamp": "2022-08-03 0:19:37 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "cf66e561-4721-4e58-877f-b27dc5d47347",
+      "timestamp": "2022-08-03 1:12:52 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "8f6679f0-a8e8-46b8-a81e-6ff14ce723f5",
+      "timestamp": "2022-08-03 1:46:26 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "f66f30ce-b1ab-43cd-8270-2fbd4877fa8f",
+      "timestamp": "2022-08-03 1:16:58 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "a001e0ae-16b3-4244-887f-ddd3228ed789",
+      "timestamp": "2022-08-03 1:25:06 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "234b0a05-0c3a-4671-b13d-12c45918bc41",
+      "timestamp": "2022-08-03 2:10:50 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "913a7f1a-126f-4440-8980-dde1273694f6",
+      "timestamp": "2022-08-03 2:33:06 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "972ac6cd-bb02-46d1-a4a8-7dc312f2f475",
+      "timestamp": "2022-08-03 3:49:43 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "fdcdfb9b-fc82-4991-b770-40b375872b0f",
+      "timestamp": "2022-08-03 3:50:58 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "849b4b00-9918-4a9b-95da-2f5f7b5a4af5",
+      "timestamp": "2022-08-03 3:40:32 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "0d827f9e-04c5-479e-918d-e89417f9d194",
+      "timestamp": "2022-08-03 3:53:34 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "7aeebbde-c37e-4a91-b8ca-bd8ef689ca82",
+      "timestamp": "2022-08-03 5:18:31 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "2d4ff8b1-e3dc-4c13-bf60-06aab522becc",
+      "timestamp": "2022-08-03 5:39:30 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "4efc2dfe-4bef-42fa-a27c-e5b2b6f34165",
+      "timestamp": "2022-08-03 5:30:08 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "958972cf-ef97-4562-bef3-2e700ed85b16",
+      "timestamp": "2022-08-03 5:09:18 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "cde931c3-e85e-4c0f-8794-781774a47481",
+      "timestamp": "2022-08-03 7:29:21 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "80d08378-4f61-47a2-aa35-2e60d3157ceb",
+      "timestamp": "2022-08-03 9:46:37 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "7f14efd0-e01f-4bdd-ac40-f876e1b6122f",
+      "timestamp": "2022-08-03 9:48:29 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "6cbbc598-1ba9-4da4-96f2-adba9e7d4530",
+      "timestamp": "2022-08-03 9:48:00 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "60081b1d-3907-4533-b9fa-e9239bb307f5",
+      "timestamp": "2022-08-03 9:00:58 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "b396b535-4267-443f-8a68-ee9522b106ba",
+      "timestamp": "2022-08-03 9:40:58 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "bb542774-b245-4dde-bd4d-9204e785f975",
+      "timestamp": "2022-08-03 10:13:08 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "3e01ba26-29ef-43cf-8c1e-9dc2f1df3227",
+      "timestamp": "2022-08-03 11:50:14 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "26356c00-b506-4ad6-bc75-51207867a11e",
+      "timestamp": "2022-08-03 11:09:53 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "a37832d8-b763-4a55-bd55-c6fe81d16274",
+      "timestamp": "2022-08-03 11:08:52 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "3c056030-8f57-49ae-a0e6-7d896dcd7b67",
+      "timestamp": "2022-08-03 11:24:04 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "4c7aabca-2916-4d23-ba7c-e4e3e39731ec",
+      "timestamp": "2022-08-03 12:44:22 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "ea2dc34f-0b78-4b17-957b-05c6caa8f7d4",
+      "timestamp": "2022-08-03 13:59:47 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "f8db5098-83fc-42ff-8574-fbea6f7a9368",
+      "timestamp": "2022-08-03 13:31:38 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "a1d0a814-767c-45f1-b5c3-ede9761ac479",
+      "timestamp": "2022-08-03 13:01:54 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "bfea2b2b-5c66-4de8-bb84-c23a8c40dc71",
+      "timestamp": "2022-08-03 13:41:19 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "c2af4a99-bd79-4521-89d2-948edbde3a01",
+      "timestamp": "2022-08-03 14:26:54 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "75400ae3-6cbe-49b3-8eb4-61939121308c",
+      "timestamp": "2022-08-03 14:35:28 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "a5947059-0be6-4323-8f05-0fae2655278b",
+      "timestamp": "2022-08-03 14:46:28 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "49f90a2c-9293-4db4-a41b-6e0e2ea50acb",
+      "timestamp": "2022-08-03 14:36:26 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "f317b9dd-cc42-4e0e-aaa5-ec976d5a9c8c",
+      "timestamp": "2022-08-03 15:16:52 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "fde8f660-6a2a-4cc3-a773-a633d4bef6e4",
+      "timestamp": "2022-08-03 15:30:56 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "2d6f32e8-fe27-4651-a10d-134495e7d6dd",
+      "timestamp": "2022-08-03 15:28:29 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "42cf5d7c-4823-4ebf-b1a4-f72a0f10ff45",
+      "timestamp": "2022-08-03 15:34:07 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "5c7cdff2-17f7-4f7a-a16c-e75844b3d8eb",
+      "timestamp": "2022-08-03 16:35:54 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "b29d8922-b99b-4b62-9c08-ab8691413dab",
+      "timestamp": "2022-08-03 16:50:51 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "f691e025-59cd-440f-8326-801e10557b29",
+      "timestamp": "2022-08-03 16:57:23 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "e3fc4cab-41cf-4c02-bcf9-a0743bbce0ad",
+      "timestamp": "2022-08-03 17:57:19 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "f6060e9d-0da5-4582-8150-dff110aac010",
+      "timestamp": "2022-08-03 17:20:03 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "94266dac-6fb3-4873-b487-1824aef69b7f",
+      "timestamp": "2022-08-03 17:27:46 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "086de3f3-b0e9-43aa-8d83-77dce1c91fe9",
+      "timestamp": "2022-08-03 17:11:11 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "aa6a40fc-b5bc-4700-a59c-1aa417c06738",
+      "timestamp": "2022-08-03 17:51:29 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "287d92d4-57ce-4017-8185-d54ad2ded6e9",
+      "timestamp": "2022-08-03 18:09:49 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "6c86fca5-7a61-49ff-9dac-af6b9ec2e3ca",
+      "timestamp": "2022-08-03 18:39:15 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "0b8f166c-3751-44ac-9501-fdc003147b9b",
+      "timestamp": "2022-08-03 18:46:00 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "fb6b568a-b3c5-4643-9689-cf7cb672517b",
+      "timestamp": "2022-08-03 19:32:45 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "27857bf8-ff4c-45cf-860a-5a9735c4369e",
+      "timestamp": "2022-08-03 19:26:42 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "d0e685d6-d210-4fd5-8a9c-c19be9d03208",
+      "timestamp": "2022-08-03 20:41:59 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "413c6860-b3d3-46fe-8f3a-0f5da3a38261",
+      "timestamp": "2022-08-03 21:19:23 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "87490a8c-7c30-4024-8944-80d0dc9a0026",
+      "timestamp": "2022-08-03 21:06:28 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "8810a906-4c73-4fcf-abfb-fc15df39dd81",
+      "timestamp": "2022-08-03 21:05:19 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "915442e5-6cce-4fcb-80e5-6a514fb95ccc",
+      "timestamp": "2022-08-03 21:54:06 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "808d06ae-ddf2-4dc9-b8cd-080b03f0db34",
+      "timestamp": "2022-08-03 21:28:33 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "88a4d2b3-e959-4abb-83af-1c7841e58f9d",
+      "timestamp": "2022-08-03 22:25:09 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "9b0e57ed-2f4d-4d6d-ae0f-7ddec0a16391",
+      "timestamp": "2022-08-03 22:30:06 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "3adc8ea1-dbdb-441d-99a4-7dac5165dd08",
+      "timestamp": "2022-08-03 22:09:16 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "9286c0c2-0c84-4c67-b706-b3421239795d",
+      "timestamp": "2022-08-03 23:20:58 +1200",
+      "channel": "website"
+    },
+    {
+      "id": "4b701bbd-b9a8-40f4-b8f7-7bd5eda9d023",
+      "timestamp": "2022-08-03 23:08:31 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "146368d5-e82e-4559-9234-49a40c90724a",
+      "timestamp": "2022-08-03 23:46:05 +1200",
+      "channel": "sales"
+    },
+    {
+      "id": "4e705cfa-1d84-42d1-b280-4840a4aeb1f4",
+      "timestamp": "2022-08-03 23:41:13 +1200",
+      "channel": "qr"
+    },
+    {
+      "id": "ab5a0bc4-60bd-486c-894f-722a836b6f20",
+      "timestamp": "2022-08-03 23:13:36 +1200",
+      "channel": "sales"
+    }
+  ]
+}
