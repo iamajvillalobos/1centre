@@ -3,7 +3,7 @@ require "date"
 
 class ApplicationReport
   def initialize(json_filename)
-    file = File.read("./applications.json")
+    file = File.read(json_filename)
     @applications = JSON.parse(file, object_class: OpenStruct).applications
     @trend = {}
   end
@@ -18,17 +18,30 @@ class ApplicationReport
   # Returns the average number of applications by hour (0 to 23) depending on
   # the total number of days available in the JSON file.
   def retrieve_trend(channel = "all")
-    filtered_by_channel = if channel == "all"
-      @applications
-    else
-      @applications.select { |app| app.channel == channel }
-    end
+    filter_by_channel(channel)
+    group_by_day
+    calculate_hourly_trend
+    calculate_average_trend
 
-    filtered_by_day = filtered_by_channel.group_by do |app|
+    @trend
+  end
+
+  private
+
+  def filter_by_channel(channel)
+    return if channel == "all"
+
+    @applications.select { |app| app.channel == channel }
+  end
+
+  def group_by_day
+    @applications_by_day = @applications.group_by do |app|
       Date.parse(app.timestamp)
     end
+  end
 
-    filtered_by_day.each do |day, apps|
+  def calculate_hourly_trend
+    @applications_by_day.each do |day, apps|
       apps.each do |app|
         datetime = DateTime.parse(app.timestamp)
 
@@ -36,11 +49,11 @@ class ApplicationReport
         @trend[datetime.hour] += 1
       end
     end
+  end
 
+  def calculate_average_trend
     @trend.each do |hour, value|
-      @trend[hour] = (value.to_f / filtered_by_day.size).round
+      @trend[hour] = (value.to_f / @applications_by_day.size).round
     end
-
-    @trend
   end
 end
