@@ -143,4 +143,24 @@ RSpec.describe ApplicationReport do
       expect(service.retrieve_trend(nil)).to eq expected_response
     end
   end
+
+  context "with empty applications.json" do
+    let(:empty_service) { described_class.new("empty_applications.json") }
+
+    it "returns an empty hash for all channels" do
+      expect(empty_service.retrieve_trend).to eq({})
+    end
+
+    it "returns an empty hash for qr channels" do
+      expect(empty_service.retrieve_trend("qr")).to eq({})
+    end
+
+    it "returns an empty hash for sales channels" do
+      expect(empty_service.retrieve_trend("sales")).to eq({})
+    end
+
+    it "returns an empty hash for website channels" do
+      expect(empty_service.retrieve_trend("website")).to eq({})
+    end
+  end
 end
