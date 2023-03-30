@@ -26,7 +26,7 @@ class ApplicationReport
   private
 
   def filter_by_channel(channel)
-    return @applications if channel == "all"
+    return @applications if channel.nil? || channel == "all"
 
     @applications.select { |app| app.channel == channel }
   end
