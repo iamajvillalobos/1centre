@@ -32,3 +32,17 @@ The JSON file contains three days worth of data which will determine how you cal
   - A technical overview of the implementation:
     - Summary or justification of the approach
     - Technical debts and/or areas to improve further if any
+
+## Running the spec
+
+Run `bundle exec rspec` to run the test
+
+## Explanation
+
+`ApplicationReport` class parses the JSON data into a collection of `OpenStruct` objects and calculate the average hourly trend based on the provided channel filter. The implementation uses a functional approach of breaking the main `retrieve_trend` method into smaller, focused methods that return a new data.
+
+## Areas to Improve Upon
+
+1. The current implementation don't have a lot of error handling since we assumed the JSON file is always correct.
+2. Performance might consume significant memory if the JSON file is large. We might need to stream it or maybe read from a database.
+3. I did not consider any timezone handling for this one since I need more information on what are the requirements or cases.
